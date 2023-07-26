@@ -9,9 +9,9 @@
 
 ## Big-O gösterimini yazınız.
 
-n.(n-1)(n-2)....1
-( n.(n+1) ) / 2
-( n²+n ) / 2
+n.(n-1)(n-2)....1 || 
+( n.(n+1) ) / 2 || 
+( n²+n ) / 2 || 
 O (n²)
 
 ## Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
